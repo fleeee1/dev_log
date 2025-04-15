@@ -19,3 +19,7 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed JS Lesson 87 in Udemy (Arithmetic & The Modulo Operator)
 - completed Lesson 88 (Increment and Decrement Expressions)
 - passed Quiz
+
+## April 14, 2025
+- continued Figma tutorial from Arash
+- began experimenting with my own Figma draft, trying out shape creation, gradients, positioning, opacity, node creation, etc.
