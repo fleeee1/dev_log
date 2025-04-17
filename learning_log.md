@@ -28,3 +28,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed JavaScript lessons 89-92
 - completed regular Karel robot assignment
 - completed bonus assignment (Karel)
+
+## April 16, 2025
+- completed JavaScript lesson 93
