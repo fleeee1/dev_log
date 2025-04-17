@@ -23,3 +23,8 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 ## April 14, 2025
 - continued Figma tutorial from Arash
 - began experimenting with my own Figma draft, trying out shape creation, gradients, positioning, opacity, node creation, etc.
+
+## April 16, 2025
+- completed JavaScript lessons 89-92
+- completed regular Karel robot assignment
+- completed bonus assignment (Karel)
