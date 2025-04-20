@@ -31,3 +31,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## April 17, 2025
 - completed JavaScript lesson 93
+
+## April 20, 2025
+- started Life in Weeks exercise
