@@ -33,5 +33,5 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed JavaScript lesson 93
 
 ## April 20, 2025
-- completed Life in Weeks exercise
+- completed Life in Weeks exercise (Lesson 94)
 - completed JavaScript lesson 95
