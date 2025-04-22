@@ -40,4 +40,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lessons 96-98, including BMI Calculator
 
 ## April 22, 2025
-- completed lesson 99, including Love Calculator
+- completed lesson 99-102, including Love Calculator and Advanced BMI Calculator
