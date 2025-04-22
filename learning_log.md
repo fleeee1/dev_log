@@ -37,4 +37,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed JavaScript lesson 95
 
 ## April 21, 2025
-- started lesson 96 (BMI Calculator). I have very little time today so not sure if I will finish this
+- completed lessons 96-98, including BMI Calculator
