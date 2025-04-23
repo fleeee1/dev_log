@@ -41,3 +41,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## April 22, 2025
 - completed lesson 99-102, including Love Calculator and Advanced BMI Calculator
+
+## April 23, 2025
+- watched several more "Design with Me" videos on Figma
