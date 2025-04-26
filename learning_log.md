@@ -45,5 +45,8 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 ## April 23, 2025
 - watched several more "Design with Me" videos on Figma
 
-## April 24, 2025
+## April 25, 2025
 - spent considerable time today coming up with a road map of what I still have to learn. I haven't had a detailed plan since there is so much, but I think I have a better idea of how to proceed now
+
+## April 26, 2025
+- 
