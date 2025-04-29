@@ -57,3 +57,5 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## April 28, 2025
 - completed lessons 108-111
+
+## April 29, 2025
