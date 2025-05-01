@@ -62,4 +62,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lessons 112-114
 
 ## May 1, 2025
-- completed lesson 115-116
+- completed lesson 115-117
