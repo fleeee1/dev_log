@@ -64,3 +64,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 ## May 1, 2025
 - completed lessons 115-122
 - briefly reviewed Dessert Cart app I had been working on as I want to revisit that and finish it when I learn more of the concepts I'm working on now. I think I will print out the entire code and make notes to make sure I understand how everything is working before continuing on
+
+## May 4, 2025
+- started Dice Challenge
