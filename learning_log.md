@@ -69,4 +69,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lessons 123-133 (Dice Challenge)
 
 ## May 5, 2025
-- started Advanced JS/DOM Manipulation section
+- completed lessons 134-136
