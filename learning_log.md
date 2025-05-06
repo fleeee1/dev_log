@@ -72,3 +72,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lessons 134-136
 
 ## May 6, 2025
+- completed lessons 137-140
