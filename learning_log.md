@@ -82,4 +82,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - practiced Callback functions on my own
 
 ## May 9, 2025
-- 
+- completed lessons 146-148
