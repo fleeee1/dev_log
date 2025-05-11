@@ -83,3 +83,9 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## May 9, 2025
 - completed lessons 146-148
+- worked on correcting arithmetic bug in calculator app
+
+## May 10, 2025
+- worked on correcting arithmetic bug in calculator app (completed)
+
+## May 11, 2025
