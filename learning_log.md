@@ -89,3 +89,8 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - worked on correcting arithmetic bug in calculator app (completed)
 
 ## May 11, 2025
+- started React module
+- completed lessons 277-280
+
+## May 12, 2025
+- 
