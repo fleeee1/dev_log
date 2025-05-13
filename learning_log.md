@@ -93,4 +93,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lessons 277-280
 
 ## May 12, 2025
-- at lesson 281, realized this course is not using React18. May need to adjust some things. Also, I am switching to Next.js instead of Code Sandbox
+- completed lesson 281, realized this course is not using React18. May need to adjust some things
