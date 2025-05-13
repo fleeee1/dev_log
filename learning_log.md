@@ -94,3 +94,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## May 12, 2025
 - completed lesson 281, realized this course is not using React18. May need to adjust some things
+
+## May 12, 2025
+- worked on calculator app
