@@ -96,4 +96,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lesson 281, realized this course is not using React18. May need to adjust some things
 
 ## May 13, 2025
-- worked on calculator app
+- worked on calculator app, trying to fix lowerDisplay issue
