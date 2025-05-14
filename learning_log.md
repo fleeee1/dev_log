@@ -99,4 +99,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - worked on calculator app, trying to fix lowerDisplay issue
 
 ## May 14, 2025
-- 
+- completed lesson 282
