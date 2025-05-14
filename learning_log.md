@@ -97,3 +97,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## May 13, 2025
 - worked on calculator app, trying to fix lowerDisplay issue
+
+## May 14, 2025
+- 
