@@ -108,4 +108,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lesson 285-286
 
 ## May 18, 2025
-- 
+- completed lesson 287
