@@ -112,3 +112,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## May 19, 2025
 - started lesson 288
+
+## May 20, 2025
+- completed lesson 288
