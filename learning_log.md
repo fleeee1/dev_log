@@ -115,3 +115,7 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## May 20, 2025
 - completed lessons 288-291
+- attended web design Meetup, learned about auto-layout and asset libraries in Figma
+
+## May 21, 2025
+- working with Figma to wireframe personal website
