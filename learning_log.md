@@ -124,4 +124,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - worked on personal website wireframe. I'm finding the learning curve on Figma to be steep
 
 ## May 23, 2025
-- working with Figma to wireframe personal website
+- completed wireframe of personal website landing page
