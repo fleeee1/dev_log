@@ -125,3 +125,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## May 23, 2025
 - completed wireframe of personal website landing page
+- completed lesson 292
