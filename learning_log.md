@@ -129,3 +129,5 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## May 24, 2025
 - completed lesson 293-294
+
+## May 25, 2025
