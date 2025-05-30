@@ -144,4 +144,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lesson 299-300
 
 ## May 30, 2025
-- 
+- completed lesson 301
