@@ -148,3 +148,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## June 2, 2025
 - completed lesson 302
+- got extra practice with props
