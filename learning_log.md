@@ -152,3 +152,5 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## June 3, 2025
 - completed lessons 303-305
+
+## June 4, 2025
