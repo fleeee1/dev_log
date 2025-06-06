@@ -155,3 +155,7 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## June 4, 2025
 - completed lesson 306
+
+## June 5, 2025
+- finished lesson 307, but haven't completed the challenge yet
+- got extra practice on destructuring
