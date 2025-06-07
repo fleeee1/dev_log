@@ -161,4 +161,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - got extra practice on destructuring
 
 ## June 6, 2025
-- finished lesson 308 (nested destructuring challenge)
+- completed lessons 308-309
