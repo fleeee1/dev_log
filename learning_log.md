@@ -167,4 +167,4 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 - completed lesson 310-311
 
 ## June 11, 2025
-- completed all lessons through 316 (forgot to update log the last few days)
+- completed all lessons through 315 (forgot to update log the last few days)
