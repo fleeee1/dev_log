@@ -171,3 +171,6 @@ the website, I realized that I still don't have a clear idea of where I'm going.
 
 ## June 12, 2025
 - i am attempting to complete lesson 316 but codesandbox is having issues. will try again tonight if i have time
+
+## June 15, 2025
+- completed lessons 316-317
